@@ -2,9 +2,13 @@
 
 Give some personality to your Xiaomi vacuum by creating your own GLaDOS voice pack.
 
-The script reads the text from the csv file in GLaDOS' voice and packages it for upload to your vacuum. It's been tested with a gen1 running [Valetudo](https://valetudo.cloud/) but should also work with other generations and with other ways of installing the voice pack.
+The script reads the text from the csv file in GLaDOS' voice and packages it for upload to your vacuum. It's been tested with a gen1 running [Valetudo](https://valetudo.cloud/) but should also work with other generations and with other ways of installing the voice pack. Especially combined with some [original samples](http://www.portal2sounds.com/#w=glados) it can lead to some cool results.
 
-Want to hear what it sounds like first? Check out [GLaDOS voice generator](https://glados.c-net.org/).
+Want to hear what she sounds like first? Check out [GLaDOS voice generator](https://glados.c-net.org/).
+
+## I'm not creative, just give me a voice pack!
+
+You're doing a great job of disappointing me. Go on, go to the [releases page](https://github.com/arner/roborock-glados/releases) and download a pre-created pack.
 
 ## Requirements
 
